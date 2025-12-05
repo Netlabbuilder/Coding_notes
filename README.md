@@ -1,2 +1,2 @@
 # Coding
-My notes on coding ...  
+My notes on coding.
